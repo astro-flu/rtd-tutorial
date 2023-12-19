@@ -8,4 +8,4 @@ authors = [{name = "Graziella", email = "graziella@lumache"}]
 dynamic = ["version", "description"]
 
 [project.dependencies]
-IPython = "^7.30.0"
+IPython = "^8.18.1"
