@@ -1,4 +1,4 @@
-importy IPython
+import IPython
 """
 Lumache - Python library for cooks and food lovers.
 """
