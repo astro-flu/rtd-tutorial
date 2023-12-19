@@ -6,7 +6,4 @@ build-backend = "flit_core.buildapi"
 name = "lumache"
 authors = [{name = "Graziella", email = "graziella@lumache"}]
 dynamic = ["version", "description"]
-
-[project]
-dependencies = [
-    'IPython >= 8.18.1']
+dependencies = ["IPython >= 8.18.1"]
